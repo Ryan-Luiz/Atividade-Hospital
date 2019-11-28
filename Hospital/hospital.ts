@@ -1,6 +1,6 @@
 ///<reference path="paciente.ts"/>
 ///<reference path="enfermeiro.ts"/>
-///<reference path="medico.ts"/>
+///<reference path="medicos.ts"/>
 
 namespace hospital{
 
